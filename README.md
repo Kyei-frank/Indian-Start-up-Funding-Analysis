@@ -21,5 +21,5 @@ HYPOTHESIS: Indian startup Ecosystem is being championed by the Technology Secto
 
 
 ## Article
-The link below leads to an article on the findings of this analysis.
+This link leads to an article on the findings of this analysis:
 https://fkbaffour.medium.com/the-indian-startup-ecosystem-analytical-insights-for-potential-investors-and-entrepreneurs-2807ce79e122
