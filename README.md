@@ -13,8 +13,8 @@ This project is based on an in-depth analysis on the funding received by start-u
 HYPOTHESIS: Indian startup Ecosystem is being championed by the Technology Sector
 
 ## Technologies Used:
-Python
-Pandas
-numpy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
