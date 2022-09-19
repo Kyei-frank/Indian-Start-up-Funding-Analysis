@@ -5,8 +5,8 @@ This project is based on an in-depth analysis on the funding received by start-u
 2. What is the yearly trend in the number of startups funded
 3. What is the yearly trend in the total funds raised by startups
 4. What sector has the maximum number of startups
-5. What sectors raised the highest amount of funding
-6. Which cities have the maximum number of startups
+5. Which sector  raised the highest amount of funding
+6. Which city has the maximum number of startups
 7. What are the most common investment types
 8. Who are the top investors by number of startups funded
 
